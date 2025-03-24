@@ -2,9 +2,6 @@
 ## About
 A Python-based client-server chat application themed around pandas. Features real-time messaging, ASCII art sharing, and fun commands. Built with `socket` and `threading`
 
-## Info
-Ayman Momin<br>
-UCID: 30192494
 
 ## Features  
 ### Core Features  
